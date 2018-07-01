@@ -1,0 +1,14 @@
+{
+  "name": "dynamic-wallpaper-generator",
+  "version": "1.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "author": "Neetshin",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "libde265.js": "strukturag/libde265.js#master"
+  }
+}
